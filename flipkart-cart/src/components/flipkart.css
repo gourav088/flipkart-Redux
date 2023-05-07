@@ -1,0 +1,34 @@
+.wishlistcart{
+    margin-left: 400px;
+    margin-top: 16px;
+    background: cadetblue;
+    border-radius: 12px;
+    padding: 20px;
+    border: 1px solid white;
+}
+.div1{
+    position: relative;
+    top: 25px;
+    left: 15px;
+}
+.ulList{
+    margin-left: 54px;
+    background: darkcyan;
+    border-radius: 12px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    width: 650px;
+    border: 1px solid white;
+}
+.rightCart{
+    margin-left: 70px;
+    margin-top: 16px;
+    background: darkolivegreen;
+    border-radius: 12px;
+    padding: 20px;
+    border: 1px solid white;
+}
+#root{
+    background-color: cornsilk;
+
+}
